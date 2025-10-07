@@ -1,4 +1,4 @@
-🚗 Used-Car-Price-Prediction-using-Machine-Learning
+🚗 Car-Price-Prediction-using-Gradient-Boosting-Regressor
 📌 Project Overview
 
 This project predicts the resale value of used cars using Machine Learning techniques. The goal is to help customers and dealerships make data-driven pricing decisions by analyzing car features such as mileage, fuel type, engine size, ownership, and more.
